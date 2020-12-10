@@ -12,5 +12,4 @@ $(document).ready(function() {
         $('.navbar .menu').toggleClass("active");
         $('.menu-btn i.active').toggleClass("active");
     })
-
 });
